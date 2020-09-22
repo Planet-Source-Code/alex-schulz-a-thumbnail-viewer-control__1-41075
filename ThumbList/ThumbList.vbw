@@ -1,0 +1,6 @@
+ViewerPane = 0, 0, 363, 338, , 88, 88, 451, 426, C
+clsFloodFill = 22, 22, 401, 368, C
+frmPicStats = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmShow = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+clsThumb = 0, 0, 0, 0, C
+clsThumbs = 110, 110, 523, 456, 
