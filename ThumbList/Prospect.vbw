@@ -1,0 +1,5 @@
+frmMain = 66, 66, 501, 347, , 44, 44, 457, 390, C
+modMain = 132, 132, 567, 413, 
+frmBrowseDlg = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modFileSystem = 22, 22, 435, 368, Z
+frmFileExists = 0, 0, 0, 0, C, 0, 0, 0, 0, C
